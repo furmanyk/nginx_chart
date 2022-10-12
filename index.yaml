@@ -3,12 +3,12 @@ entries:
   mychart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-10-11T22:43:02.116833551+03:00"
+    created: "2022-10-12T13:44:05.308310851+03:00"
     description: A Helm chart for Kubernetes
-    digest: 3f4ebd145ee2c4b9c880751f1314092507b78cca88628afd4bb89373caf0877b
+    digest: 8f22863874cc1f99e10152edf34fb444251a2c55a9407bc39f13b7f019baf43e
     name: mychart
     type: application
     urls:
     - https://github.com/furmanyk/nginx_chart/mychart-0.1.0.tgz
     version: 0.1.0
-generated: "2022-10-11T22:43:02.115901932+03:00"
+generated: "2022-10-12T13:44:05.307926498+03:00"
